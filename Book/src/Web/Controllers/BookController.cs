@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.Diagnostics;
 using System.Linq;
@@ -8,22 +8,23 @@ using Web.Models;
 
 namespace Web.Controllers
 {
-    public class HomeController : Controller
+    public class BookController : Controller
     {
-        public IActionResult Index()
+       
+        public IActionResult Adventure()
         {
             return View();
         }
 
-        public IActionResult Privacy()
+          public IActionResult Fiction()
         {
             return View();
         }
-         public IActionResult About()
+         public IActionResult Travel()
         {
             return View();
         }
-
+        
 
 
         [ResponseCache(Duration = 0, Location = ResponseCacheLocation.None, NoStore = true)]
