@@ -11,20 +11,25 @@ namespace Web.Controllers
     public class BookController : Controller
     {
        
-        public IActionResult Adventure()
+        public IActionResult Text()
+        {
+            return Content("This is the text view of book");
+        }
+
+          public IActionResult JSON()
+        {
+            return Json(new { name="JSON",description="this "});
+        }
+         public IActionResult HTML()
+        {
+            return Content("<html><body><h1>This is HTML method</h1></body></html>","text/html");
+        }
+        public IActionResult ViewPage()
         {
             return View();
         }
 
-          public IActionResult Fiction()
-        {
-            return View();
-        }
-         public IActionResult Travel()
-        {
-            return View();
-        }
-        
+
 
 
         [ResponseCache(Duration = 0, Location = ResponseCacheLocation.None, NoStore = true)]

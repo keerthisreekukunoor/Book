@@ -14,9 +14,6 @@ C:\Users\S533570\Documents\44663\Book\Book\src\Web\bin\Debug\netcoreapp2.2\Web.V
 C:\Users\S533570\Documents\44663\Book\Book\src\Web\obj\Debug\netcoreapp2.2\Web.TagHelpers.input.cache
 C:\Users\S533570\Documents\44663\Book\Book\src\Web\obj\Debug\netcoreapp2.2\Web.TagHelpers.output.cache
 C:\Users\S533570\Documents\44663\Book\Book\src\Web\obj\Debug\netcoreapp2.2\Web.RazorCoreGenerate.cache
-C:\Users\S533570\Documents\44663\Book\Book\src\Web\obj\Debug\netcoreapp2.2\Razor\Views\Books\Adventure.g.cshtml.cs
-C:\Users\S533570\Documents\44663\Book\Book\src\Web\obj\Debug\netcoreapp2.2\Razor\Views\Books\Fiction.g.cshtml.cs
-C:\Users\S533570\Documents\44663\Book\Book\src\Web\obj\Debug\netcoreapp2.2\Razor\Views\Books\Travel.g.cshtml.cs
 C:\Users\S533570\Documents\44663\Book\Book\src\Web\obj\Debug\netcoreapp2.2\Razor\Views\Home\About.g.cshtml.cs
 C:\Users\S533570\Documents\44663\Book\Book\src\Web\obj\Debug\netcoreapp2.2\Razor\Views\Home\Index.g.cshtml.cs
 C:\Users\S533570\Documents\44663\Book\Book\src\Web\obj\Debug\netcoreapp2.2\Razor\Views\Home\Privacy.g.cshtml.cs
@@ -32,3 +29,7 @@ C:\Users\S533570\Documents\44663\Book\Book\src\Web\obj\Debug\netcoreapp2.2\Web.V
 C:\Users\S533570\Documents\44663\Book\Book\src\Web\obj\Debug\netcoreapp2.2\Web.dll
 C:\Users\S533570\Documents\44663\Book\Book\src\Web\obj\Debug\netcoreapp2.2\Web.pdb
 C:\Users\S533570\Documents\44663\Book\Book\src\Web\obj\Debug\netcoreapp2.2\Web.csproj.CopyComplete
+C:\Users\S533570\Documents\44663\Book\Book\src\Web\obj\Debug\netcoreapp2.2\Razor\Views\Books\HTML.g.cshtml.cs
+C:\Users\S533570\Documents\44663\Book\Book\src\Web\obj\Debug\netcoreapp2.2\Razor\Views\Books\JSON.g.cshtml.cs
+C:\Users\S533570\Documents\44663\Book\Book\src\Web\obj\Debug\netcoreapp2.2\Razor\Views\Books\Text.g.cshtml.cs
+C:\Users\S533570\Documents\44663\Book\Book\src\Web\obj\Debug\netcoreapp2.2\Razor\Views\Books\ViewPage.g.cshtml.cs
