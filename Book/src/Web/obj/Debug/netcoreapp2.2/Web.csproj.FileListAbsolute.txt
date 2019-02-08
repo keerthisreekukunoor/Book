@@ -29,7 +29,7 @@ C:\Users\S533570\Documents\44663\Book\Book\src\Web\obj\Debug\netcoreapp2.2\Web.V
 C:\Users\S533570\Documents\44663\Book\Book\src\Web\obj\Debug\netcoreapp2.2\Web.dll
 C:\Users\S533570\Documents\44663\Book\Book\src\Web\obj\Debug\netcoreapp2.2\Web.pdb
 C:\Users\S533570\Documents\44663\Book\Book\src\Web\obj\Debug\netcoreapp2.2\Web.csproj.CopyComplete
-C:\Users\S533570\Documents\44663\Book\Book\src\Web\obj\Debug\netcoreapp2.2\Razor\Views\Books\HTML.g.cshtml.cs
-C:\Users\S533570\Documents\44663\Book\Book\src\Web\obj\Debug\netcoreapp2.2\Razor\Views\Books\JSON.g.cshtml.cs
-C:\Users\S533570\Documents\44663\Book\Book\src\Web\obj\Debug\netcoreapp2.2\Razor\Views\Books\Text.g.cshtml.cs
-C:\Users\S533570\Documents\44663\Book\Book\src\Web\obj\Debug\netcoreapp2.2\Razor\Views\Books\ViewPage.g.cshtml.cs
+C:\Users\S533570\Documents\44663\Book\Book\src\Web\obj\Debug\netcoreapp2.2\Razor\Views\Book\HTML.g.cshtml.cs
+C:\Users\S533570\Documents\44663\Book\Book\src\Web\obj\Debug\netcoreapp2.2\Razor\Views\Book\JSON.g.cshtml.cs
+C:\Users\S533570\Documents\44663\Book\Book\src\Web\obj\Debug\netcoreapp2.2\Razor\Views\Book\Text.g.cshtml.cs
+C:\Users\S533570\Documents\44663\Book\Book\src\Web\obj\Debug\netcoreapp2.2\Razor\Views\Book\ViewPage.g.cshtml.cs
